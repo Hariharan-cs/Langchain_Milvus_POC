@@ -1,18 +1,28 @@
-# pymilvus==2.3.6
+# # pymilvus==2.3.6
+# # nltk==3.8.1
+# # langchain==0.0.353
+# # langchain-community==0.0.17
+# # protecto-ai==1.0.2
+# # # pdfminer
+# # pdfminer.six==20231228
+# openai
+# # chromadb
+# tiktoken
 # nltk==3.8.1
+# pymilvus==2.3.6
 # langchain==0.0.353
 # langchain-community==0.0.17
 # protecto-ai==1.0.2
-# # pdfminer
+# pdfminer
 # pdfminer.six==20231228
-openai
-# chromadb
-tiktoken
+# # ChatOpenAI
+# dotenv==0.0.5
+# async mask api with auto detect
+tiktoken==0.5.1
 nltk==3.8.1
-pymilvus==2.3.6
-langchain==0.0.353
-langchain-community==0.0.17
-protecto-ai==1.0.2
-pdfminer
+langchain==0.0.349
+langchain-community==0.0.1
+protecto_ai==1.0.2
 pdfminer.six==20231228
-# ChatOpenAI
+pymilvus==2.3.6
+openai==1.11.1

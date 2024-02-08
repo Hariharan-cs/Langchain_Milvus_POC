@@ -159,8 +159,8 @@ class FileQuestioner:
             # )
             # return
             connection_args = {"host": "127.0.0.1", "port": "19530"}
-            texts = ["one", "two"]
-            COLLECTION_NAME = 'doc_qa_db3'
+            # texts = ["one", "two"]
+            COLLECTION_NAME = 'doc_qa_db4'
             retriever = Milvus.from_texts(
                 texts=texts,
                 embedding=embeddings,

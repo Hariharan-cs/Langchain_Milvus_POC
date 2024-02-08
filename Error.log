@@ -1,30 +1,10 @@
-2024-02-07 10:59:52,019 - root - INFO - Masking Started
-2024-02-07 10:59:52,019 - root - INFO - Support Ticket #4563-789 Date: December 3, 2023, Time: 10:15 AM, Dura(cid:415)on: 15 minutes, Support 
-Agent: Emily Johnson, Caller: David Thompson 
-
-Transcript Start: 
-
-Emily: Thank you for calling TechGuru Support. This is Emily Johnson. How can I assist you today? David: Hi Emily, my name is David Thompson. I'm having an issue with my laptop. It's not star(cid:415)ng up 
-properly. Emily: I'm sorry to hear that, David. Could you please provide me with your customer ID? David: Sure, it's TG789456. Emily: Thank you, Mr. Thompson. I see here that you purchased a ProTech Laptop Model X from us. Is 
-that correct? David: Yes, that's right. Emily: Alright. Could you please provide me with the serial number of your laptop? 
-2024-02-07 10:59:52,019 - root - INFO - Masking Completed
-2024-02-07 10:59:52,019 - root - INFO - Masking Started
-2024-02-07 10:59:52,019 - root - INFO - It should be on the 
-bo(cid:425)om of the device 
-
-David: Just a moment... Okay, here it is: SN123456789. Emily: Great, thank you. Now, let's try some basic troubleshoo(cid:415)ng. Have you tried... 
-
-Emily: ...It seems like we might need to set up a repair. Could you please conﬁrm your phone number 
-and email address for our records? David: Sure, my phone number is (555) 321-6548, and my email address is david.thompson@email.com. Emily: Perfect. And for the pick-up of your laptop, may I have your current address? David: It's 4321 Willow Lane, Apt 202, Springﬁeld. Emily: Thank you. I will arrange for a courier to pick up your laptop tomorrow. Can you conﬁrm if you'll 
-be available between 10 AM and 12 PM? David: Yes, I'll be home at that (cid:415)me. Emily: Great. 
-2024-02-07 10:59:52,019 - root - INFO - Masking Completed
-2024-02-07 10:59:52,019 - root - INFO - Masking Started
-2024-02-07 10:59:52,019 - root - INFO - I've scheduled the pick-up. You will receive a conﬁrma(cid:415)on email shortly. The email will also 
-contain a tracking number for your reference. David: Thank you, Emily. How long will the repair take? Emily: It typically takes about 5-7 business days. We will keep you updated via email and text. Your repair 
-(cid:415)cket number is REP4567893. Please refer to this number in any correspondence. David: Got it. Is there anything else I need to do? Emily: No, that's all for now. We'll take care of everything from here. Thank you for choosing TechGuru, 
-Mr. Thompson. Have a great day! 
-2024-02-07 10:59:52,019 - root - INFO - Masking Completed
-2024-02-07 10:59:52,019 - root - INFO - Sentences are MASKED, appended and sent to Process
-2024-02-07 10:59:52,019 - root - INFO - Splitting text with overlap started
-2024-02-07 10:59:52,019 - root - INFO - Splitting text with overlap completed
-2024-02-07 10:59:52,019 - root - INFO - Text split with overlap and completed, with 1000 as chunk size and 4 as overlap
+2024-02-08 17:50:34,093 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-02-08 17:50:37,876 - root - INFO - Embedding Created
+2024-02-08 17:50:43,152 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-02-08 17:50:44,640 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-02-08 22:57:31,223 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-02-08 22:57:31,742 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-02-08 22:57:32,609 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-02-08 22:57:33,129 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-02-08 22:57:33,660 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-02-08 22:57:34,705 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
